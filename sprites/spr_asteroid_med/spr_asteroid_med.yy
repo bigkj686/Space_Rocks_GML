@@ -41,7 +41,7 @@
   },
   "origin": 4,
   "bboxMode": 0,
-  "collisionKind": 1,
+  "collisionKind": 2,
   "type": 0,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
