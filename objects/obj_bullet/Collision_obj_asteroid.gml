@@ -1,7 +1,7 @@
 /// @description collision
 // You can write your code in this editor
 score += 1;
-
+audio_play_sound(snd_die, 1, false);
 instance_destroy();
 
 with(other){
