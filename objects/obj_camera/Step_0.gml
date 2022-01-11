@@ -7,3 +7,6 @@ if(instance_exists(target)){
 }
 
 camera_set_view_pos(view_camera[0], global.cameraX, global.cameraY);
+
+layer_x("Background", global.cameraX*.9);
+layer_y("Background", global.cameraY*.9);
