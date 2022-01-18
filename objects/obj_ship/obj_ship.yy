@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_faction_ally",
+    "path": "objects/obj_faction_ally/obj_faction_ally.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -27,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Ally",
+    "path": "folders/Objects/Ally.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_ship",
