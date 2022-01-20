@@ -21,5 +21,8 @@ with(inst){
 	speed = _spd;
 	faction = _fac;
 	creator = _creator;
+	
+	if(faction == factions.ally) image_blend = c_aqua;
+	else if (faction == factions.enemy) image_blend = c_red;
 }
 }
