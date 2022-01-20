@@ -12,5 +12,3 @@ enum factions {
 	ally,
 	enemy
 }
-
-faction = factions.

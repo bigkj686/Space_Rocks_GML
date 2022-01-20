@@ -1,5 +1,3 @@
-/// @description collision
-// You can write your code in this editor
 lives -= 1;
 
 with(obj_game){
